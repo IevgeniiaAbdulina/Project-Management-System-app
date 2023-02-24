@@ -9,6 +9,7 @@ import { LoginPageComponent } from './pages/login-page/login-page.component';
 import { SignUpPageComponent } from './pages/sign-up-page/sign-up-page.component';
 import { MainPageComponent } from './pages/main-page/main-page.component';
 import { BoardPageComponent } from './pages/board-page/board-page.component';
+import { FeaturesModule } from './features/features.module';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { BoardPageComponent } from './pages/board-page/board-page.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    FeaturesModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
