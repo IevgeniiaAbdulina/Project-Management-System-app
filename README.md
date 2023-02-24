@@ -1,27 +1,61 @@
-# ProjectManagementSystemApp
+# Project Management System Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+Project management system is an application that helps an individual in a team or group of developers achieve their goals.
 
-## Development server
+> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## General info
 
-## Code scaffolding
+This project was developed with [Rolling Scopes School](https://rs.school/index.html) - JS/FE Course EN 2022Q3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Link with task description](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/angular/project-management-system.md)
 
-## Build
+## Application deploy [link]()
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Screenshots
 
-## Running unit tests
+![]()
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Table of contents
 
-## Running end-to-end tests
+- [General info](#general-info)
+- [Application deploy](#Application)
+- [Screenshots](#screenshots)
+- [Application structure](#Application-structure)
+- [Technologies](#technologies)
+- [Backend](#backend)
+- [Status](#status)
+- [Authors](#authors)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Application structure
 
-## Further help
+- welcome page
+- user login
+- projects listing page
+- selected project management page
+<!-- - additional functionality (for example, the ability to view all the tasks of the selected user) -->
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Technologies
+
+- Angular (15.2.0.)
+- Angular Material
+- Sass
+
+## Backend
+
+Use https://github.com/rolling-scopes-school/final-task-backend as a backend.
+There is a description of the steps to get started, as well as a list of available requests in the repository.
+
+- You will need to deploy the backend yourself to demonstrate the working application.
+- During the implementation of an application, you may run the backend in any environment that is convenient for you, for example, a local machine.
+
+## Status
+
+Project is: _in progress_.
+
+_February 2023_
+
+## Authors
+
+- Developed by [@Ievgeniia Abdulina](https://github.com/IevgeniiaAbdulina)<br/>
+- Designed by [@Ievgeniia Abdulina](https://github.com/IevgeniiaAbdulina)<br/>
